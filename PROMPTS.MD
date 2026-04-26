@@ -1,1 +1,3 @@
 ปรับ todo-app ให้รองรับมือถือ และช่วยปรับ code ให้ follow SOLID principle และ ระวัง code smell
+สรุปสิ่งที่ทำลงไป ลง MD file หน่อย
+ฉันอยากได้สิ่งที่คุณสรุปออกมาใน console นี้ออกมาเป็น MD file
