@@ -1,0 +1,1 @@
+ปรับ todo-app ให้รองรับมือถือ และช่วยปรับ code ให้ follow SOLID principle และ ระวัง code smell
